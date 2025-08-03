@@ -1,16 +1,18 @@
-# emosense_web
+# 🧠 Emosense – Your AI Mental Health Companion
 
-A new Flutter project.
+Emosense is a web-based mental health chatbot that offers empathetic, supportive conversations powered by advanced AI. Designed to provide daily encouragement, helpful tips, and active emotional support, Emosense makes mental wellness more accessible—anytime, anywhere.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Elevator Pitch
+> Feeling overwhelmed? Emosense is your AI mental health ally—offering support, self-care tips, and meaningful conversation when you need it most.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🌟 Inspiration
+The rising mental health crisis among students and young adults inspired us to create Emosense—a safe, AI-powered space where people can share their thoughts and receive calming, grounded responses without judgment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔧 How We Built It
+- Designed a clean UI using HTML, CSS, and JavaScript
